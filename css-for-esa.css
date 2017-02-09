@@ -1,0 +1,17 @@
+.right-column {
+	float: none !important;
+	width: auto !important;
+}
+
+.posts-show .main-column,
+.posts-index .main-column,
+.revisions-index .main-column,
+.revisions-show .main-column {
+	width: auto !important;
+	max-width: none !important;
+}
+
+pre code,
+.markdown code {
+	white-space: pre !important;
+}
