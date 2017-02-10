@@ -12,3 +12,6 @@ A simple chrome extension
 
 3. esa.ioのレイアウト変更<br/>
 ![](doc/img3.png)
+
+4. chatworkのレイアウト変更
+2017-02のChatworkアップデートで[Chatwork Extensions](https://github.com/mayuki/ChatworkExtension)が壊れたための応急処置
