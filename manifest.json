@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Childish mini-toolkit",
 	"description": "あったら少しだけ便利なものを、ひとふりだけ。",
-	"version": "1.2",
+	"version": "1.3",
 	"icons": {
 		"16": "icon-16.png",
 		"48": "icon-48.png",
@@ -33,6 +33,12 @@
 			"exclude_matches": [
 				"https://*.esa.io/posts"
 			]
+		},
+		{
+			"matches": [
+				"https://www.chatwork.com/*"
+			],
+			"css": ["css-for-chatwork.css"]
 		}
 	],
 	"permissions": [

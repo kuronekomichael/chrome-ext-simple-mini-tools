@@ -1,0 +1,25 @@
+/* pinの位置 */
+.roomListItem__pinContainer {
+    top: 12px !important;
+}
+/* pinのサイズ */
+.ico19PinOn {
+    background-size: 19px !important;
+    width: 10px !important;
+    height: 10px !important;
+    background-position: 0px -21px !important;
+}
+/* (個人的に邪魔なので)タスク数は非表示 */
+.roomListBadges__taskBadge {
+    display: none !important;
+}
+/* バッジの位置調整 */
+.roomListBadges {
+    position: absolute !important;
+    top: 3px !important;
+    right: 3px !important;
+}
+/* 未読アイコンは邪魔なので非表示 */
+.roomListBadges__unreadBadgeIcon {
+    display: none !important;
+}
