@@ -1,4 +1,4 @@
-Childish mini-toolkit
+少しだけ便利ツール
 ----------------------
 A simple chrome extension
 
