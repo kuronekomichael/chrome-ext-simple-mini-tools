@@ -2,7 +2,8 @@
   padding: 4px !important;
 }
 
-.roomListItem__iconContainer {
+.roomListItem__iconContainer, 
+.roomListItem__iconContainer img {
     width: 18px !important;
     height: 18px !important;
 }
