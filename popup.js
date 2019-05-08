@@ -14,5 +14,5 @@ chrome.tabs.getSelected(null, function(tab) {
 	}, tab.title);
 
 	// ポップアップ内に、タイトルとURLを表示する
-	document.getElementById('status').innerText = title + "\n" + tab.url;
+	document.getElementById('status').value = title + "\n" + tab.url;
 });
