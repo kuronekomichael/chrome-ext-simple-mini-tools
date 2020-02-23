@@ -42,7 +42,7 @@
 		}
 	],
 	"permissions": [
-		"tabs",
+		"activeTab",
 		"declarativeContent",
 		"http://*/*",
 		"https://*/*"
